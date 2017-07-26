@@ -1,5 +1,5 @@
 # markov-text-from-tweet
-Generate random texts based on a collection of tweets, using Markov Chains. This example uses tweets from Donald Trump (@realdonaldtrump), which were downloaded from [here](https://github.com/bpb27/trump-tweet-archive/tree/master/data/realdonaldtrump)
+Generate random texts based on a collection of tweets, using Markov Chains. This example uses tweets from Donald Trump (@realdonaldtrump), which were downloaded from [here](https://github.com/bpb27/trump-tweet-archive/tree/master/data/realdonaldtrump). Just a little fun ;)
 
 Files need to be stored in the 'tweets' subfolder.
 
