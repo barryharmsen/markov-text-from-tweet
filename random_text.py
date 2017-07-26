@@ -22,7 +22,7 @@ if __name__ == "__main__":
                         metavar='length',
                         default=15,
                         type=int,
-                        help='The length of the required text, in the number of \
+                        help='The max length of the required text, in the number of \
                               words')
 
     parser.add_argument('-d', '--dict',
