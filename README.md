@@ -19,6 +19,6 @@ Run random_text.py using the following parameters:
 
 # Example
 
-Input: python random_text.py -wp President Obama -l 25
+__Input__: python random_text.py -wp President Obama -l 25
 
-Result: President Obama & Democrat leaders did a nasty cartoon attacking @tedcruz kids Bad
+__Result__: >President Obama & Democrat leaders did a nasty cartoon attacking @tedcruz kids Bad
